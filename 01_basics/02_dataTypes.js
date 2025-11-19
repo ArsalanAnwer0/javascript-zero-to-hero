@@ -1,24 +1,21 @@
 "use strict"; // treat all JS code as newer version
 
-// alert(3+3) -> we are using node JS, not browser
+// alert(2+4) // we are using node js and not browser
 
-console.log(3+3) 
-console.log("Arslaan")
+// console.log("Hitesh");
 
-let name = "Arsalan"
-let age = 20
-let isLoggedIn = true
+let name = "Arsalan" // string data type
+let age = 18 // numbers
+let isLoggedIn = false
 let state = null
+// number => 2 to power 53
+// bigInt
+// string => ""
 
-/*
-number -> 2 to power 53
-string -> "" 
-big int 
-boolean -> yes or no
-null
-undefined 
-symbol -> to find uniqueness
-object 
-*/
+// boolean  => true/false
+// null => standalone value 
+// undefined => 
+// symbol => react components uniqueness 
 
+// object 
 console.log(typeof undefined)
