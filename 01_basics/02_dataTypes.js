@@ -19,3 +19,24 @@ let state = null
 
 // object 
 console.log(typeof undefined)
+
+/*
+string
+numbers
+boolean
+big int
+undefined -> don't know yet but is something
+null -> nothing
+object -> arrays dicts
+symbol -> unique it can be identified unique value element
+*/
+
+var score = 102
+// object
+let teaTypes = ["lemon tea","orange tea","oolong tea"]
+let user = {firstName: "Muhammad",lastName: "Arsalan"}
+
+let getScore = score
+
+console.log(getScore)
+
